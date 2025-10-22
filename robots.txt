@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Allow all web crawlers to access all content
+# This is suitable for a public dashboard
+
+Sitemap: https://mantle-technology.github.io/iag-dashboard-2D9C4HJ6/sitemap.xml
